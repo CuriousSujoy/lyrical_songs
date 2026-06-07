@@ -21,9 +21,9 @@ Khud se kiye jo waade hain
 
 Rukna naa kabhi bhi tha hal
 
-Chalna hi to hai manzil
+"\nChalna hi to hai manzil"
 
-"Main naa kaheen thehra"
+"\nMain naa kaheen thehra"
 
 "\nMain bhaaga-bhaaga, sadiyon se jaaga"
 
